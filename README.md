@@ -1,4 +1,4 @@
-# Data Analytics Tasks  – Tasks 1 to 4
+# Data Analytics Tasks  
 
 
 
@@ -7,15 +7,6 @@
 - Pandas
 - Matplotlib
 - TextBlob
-
----
-
-## Task 1: Data Collection (5 Steps)
-1. Imported required libraries
-2. Created sample data inside the program
-3. Stored data in Pandas DataFrame
-4. Displayed the collected data
-5. Confirmed successful data collection
 
 ---
 
