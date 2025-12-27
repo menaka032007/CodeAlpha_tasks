@@ -38,6 +38,6 @@
 ---
 
 ## Conclusion
-All four internship tasks were implemented successfully using Python.
+All tasks were implemented successfully using Python.
 The project demonstrates data handling, analysis, visualization,
 and basic natural language processing skills.
